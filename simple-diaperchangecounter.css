@@ -1,0 +1,33 @@
+/* CSS declarations go here */
+
+
+
+
+body {
+    background-color: #d0e4fe;
+}
+
+h1 {
+
+	text-align: center;;
+}
+
+h2 {
+
+	text-align: center;
+}
+
+
+button {
+
+	background-color: yellow;
+	margin-left:700px;
+      
+}
+
+p {
+
+	font-size: 30px;
+	text-align: center;;
+}
+
